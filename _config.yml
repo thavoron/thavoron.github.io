@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Thavoron # the website title (if blank, full name will be used instead)
-first_name: Thavoron
+title:Thavoron # the website title (if blank, full name will be used instead)
+first_name:Thavoron
 middle_name:
 last_name: 
 contact_note: >
@@ -28,11 +28,10 @@ back_to_top: true # set to false to disable the back to top button
 
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
+
 
 # External service URLs for repository page
 # To use a different instance or service for displaying GitHub stats and trophies,
@@ -53,13 +52,13 @@ external_services:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+search_enabled: false
+socials_in_search: false
+posts_in_search: false
+bib_search: false
 
 # Dimensions
-max_width: 930px
+max_width: 550px
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
@@ -153,15 +152,15 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
-    output: true
+    output: false
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -198,6 +197,11 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/teaching.md
+  - _pages/repositories.md
+  - _pages/publications.md
+  - _pages/projects.md
+  - _pages/dropdown.md
   - purgecss.config.js
   - README.md
   - readme_preview/
