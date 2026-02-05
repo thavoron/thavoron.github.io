@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>LATPOR_ASST1</p>
     <p>Seattle, WA</p>
 
 
@@ -31,8 +32,4 @@ latest_posts:
 
 <b> The City Siren...</b> <i> She Comes Alive At Night </i>
 
-<h1> Attitude </h1>
-
-
-LATPOR_ASST1
-March 6th, 2026
+Attitude-- March 6th, 2026
