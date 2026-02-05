@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: <a href='https://www.trailingtwelve.com/artists/thavoron'>Trailing Twelve Records</a>.
 
@@ -30,6 +30,6 @@ latest_posts:
 
 
 
-<b> The City Siren...</b> <i> She Comes Alive At Night </i>
+The City Siren...<i> She Comes Alive At Night </i>
 
-Attitude-- March 6th, 2026
+<b>Attitude</b>... March 6th, 2026
