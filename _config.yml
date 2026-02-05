@@ -34,7 +34,6 @@ repo_trophies:
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
-
 # External service URLs for repository page
 # To use a different instance or service for displaying GitHub stats and trophies,
 # update these URLs. These are used in the repository templates.
@@ -54,10 +53,10 @@ external_services:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: false
-socials_in_search: false
-posts_in_search: false
-bib_search: false
+search_enabled: true
+socials_in_search: true
+posts_in_search: true
+bib_search: true
 
 # Dimensions
 max_width: 930px
@@ -154,15 +153,15 @@ newsletter:
 
 collections:
   books:
-    output: false
+    output: true
   news:
     defaults:
       layout: post
-    output: false
+    output: true
   projects:
-    output: false
+    output: true
   teachings:
-    output: false
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -203,10 +202,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _news/announcement_*.md
-  - _posts/
-  - _projects/?_project.md
-  - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
   - .nojekyll
