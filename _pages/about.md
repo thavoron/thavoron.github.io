@@ -7,8 +7,8 @@ subtitle: <a href='https://www.trailingtwelve.com/artists/thavoron'><b>TRAILING 
 profile:
   align: bottom
  < image: prof_pic.jpg  
-    width="3000" 
-    height="3000" />
+    width="1600" 
+    height="1600" />
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>LATPOR_ASST1</p>
