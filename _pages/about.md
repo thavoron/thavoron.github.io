@@ -6,7 +6,7 @@ subtitle: <a href='https://www.trailingtwelve.com/artists/thavoron'><b>TRAILING 
 
 profile:
   align: right
- < image: prof_pic.jpg  
+ <image: prof_pic.jpg  
     width="1600" 
     height="1600" />
   image_circular: false # crops the image to make it circular
