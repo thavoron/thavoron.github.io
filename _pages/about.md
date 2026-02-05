@@ -2,11 +2,11 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='https://www.trailingtwelve.com/artists/thavoron'>Trailing Twelve Records</a>.
+subtitle: <a href='https://www.trailingtwelve.com/artists/thavoron'><b>TRAILING TWELVE RECORDS</b></a> 
 
 profile:
   align: bottom
-  image: prof_pic.jpg  
+ < image: prof_pic.jpg  
     width="3000" 
     height="3000" />
   image_circular: false # crops the image to make it circular
