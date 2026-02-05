@@ -5,8 +5,10 @@ permalink: /
 subtitle: <a href='https://www.trailingtwelve.com/artists/thavoron'>Trailing Twelve Records</a>.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: bottom
+  image: prof_pic.jpg  
+    width="3000" 
+    height="3000" />
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>LATPOR_ASST1</p>
