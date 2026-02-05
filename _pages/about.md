@@ -1,11 +1,11 @@
 ---
 layout: about
-title: home
+title: about
 permalink: /
 subtitle: <a href='https://www.trailingtwelve.com/artists/thavoron'><b>TRAILING TWELVE RECORDS</b></a> 
 
 profile:
-  align: bottom
+  align: right
  < image: prof_pic.jpg  
     width="1600" 
     height="1600" />
@@ -28,8 +28,6 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 0 # leave blank to include all the blog posts
 ---
-
-
 
 
 The City Siren...<i> She Comes Alive At Night </i>
