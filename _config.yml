@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:Thavoron # the website title (if blank, full name will be used instead)
-first_name:Thavoron
+title: "Thavoron" # the website title (if blank, full name will be used instead)
+first_name: :Thavoron"
 middle_name:
 last_name: 
 contact_note: >
