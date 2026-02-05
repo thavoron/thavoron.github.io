@@ -28,9 +28,11 @@ back_to_top: true # set to false to disable the back to top button
 
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: false
+  enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
+  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
 
 # External service URLs for repository page
@@ -58,7 +60,7 @@ posts_in_search: false
 bib_search: false
 
 # Dimensions
-max_width: 550px
+max_width: 930px
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
@@ -202,7 +204,6 @@ exclude:
   - readme_preview/
   - vendor
   - _news/announcement_*.md
-  - _pages/blog.md
   - _posts/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
