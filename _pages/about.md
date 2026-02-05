@@ -26,7 +26,13 @@ latest_posts:
   limit: 0 # leave blank to include all the blog posts
 ---
 
- The City Siren... <i> She Comes Alive At Night </i>
-<h1> New single 'Attitude' </h1>
+
+
+
+<b> The City Siren...</b> <i> She Comes Alive At Night </i>
+
+<h1> Attitude </h1>
+
+
 LATPOR_ASST1
 March 6th, 2026
