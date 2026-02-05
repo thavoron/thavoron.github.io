@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: 
   <p>Seattle, WA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -20,4 +20,4 @@ The city siren . . . She Comes Alive At Night
 #ShowMeYourAttitude
 
 <h1> Attitude </h1>
-<h2> New single. March 6, 2026 </h2>
+New single. March 6, 2026
